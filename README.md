@@ -1,5 +1,8 @@
 # leetcode-dsa-solutions
-Repository containing my LeetCode solutions with clean, optimized code and explanations, showcasing consistent problem-solving and DSA practice.
+
+Welcome to my LeetCode journey! 
+
+This repository contains my solutions to LeetCode problems, organized by problem number and difficulty. My focus is on writing clean, optimized, and easy-to-understand code while continuously improving my Data Structures and Algorithms skills for coding interviews and competitive programming.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
