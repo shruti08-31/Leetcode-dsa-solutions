@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
@@ -36,4 +37,12 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
