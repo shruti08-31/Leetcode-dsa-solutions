@@ -13,6 +13,15 @@ This repository contains my solutions to LeetCode problems, organized by problem
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
