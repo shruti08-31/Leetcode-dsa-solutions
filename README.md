@@ -10,5 +10,6 @@ Repository containing my LeetCode solutions with clean, optimized code and expla
 ## Math
 |  |
 | ------- |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 <!---LeetCode Topics End-->
