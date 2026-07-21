@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0169-majority-element) |
+| [0503-next-greater-element-ii](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0503-next-greater-element-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
@@ -58,4 +59,12 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
