@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0503-next-greater-element-ii](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0503-next-greater-element-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
@@ -40,6 +41,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0041-first-missing-positive](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0169-majority-element) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
