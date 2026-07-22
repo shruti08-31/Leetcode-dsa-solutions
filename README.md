@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | ------- |
 | [0002-add-two-numbers](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0009-palindrome-number) |
+| [1025-divisor-game](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/2235-add-two-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -80,4 +81,16 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
