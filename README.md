@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | ------- |
 | [0002-add-two-numbers](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0069-sqrtx) |
 | [1025-divisor-game](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/2235-add-two-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -58,6 +59,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
