@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0004-median-of-two-sorted-arrays](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0503-next-greater-element-ii](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0503-next-greater-element-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -40,6 +41,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -51,6 +53,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
