@@ -102,4 +102,20 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1025-divisor-game) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
