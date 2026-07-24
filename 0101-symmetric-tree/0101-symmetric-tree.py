@@ -7,21 +7,24 @@
 
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
+        if not root:
+            return True
 
-        def mirror(left, right):
+        stack = [(root.left, root.right)]
+
+        while stack:
+            left, right = stack.pop()
+
             if not left and not right:
-                return True
+                continue
 
             if not left or not right:
                 return False
 
-            return (
-                left.val == right.val and
-                mirror(left.left, right.right) and
-                mirror(left.right, right.left)
-            )
+            if left.val != right.val:
+                return False
 
-        if not root:
-            return True
+            stack.append((left.left, right.right))
+            stack.append((left.right, right.left))
 
-        return mirror(root.left, root.right)
+        return True
