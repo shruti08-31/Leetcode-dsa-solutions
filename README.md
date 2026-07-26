@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0002-add-two-numbers](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0069-sqrtx) |
+| [0342-power-of-four](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0342-power-of-four) |
 | [1025-divisor-game](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/2235-add-two-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -36,6 +37,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +87,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0342-power-of-four) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
