@@ -51,6 +51,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0392-is-subsequence](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sliding Window
 |  |
@@ -92,10 +93,12 @@ This repository contains my solutions to LeetCode problems, organized by problem
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
