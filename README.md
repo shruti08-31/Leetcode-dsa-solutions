@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0169-majority-element](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0503-next-greater-element-ii](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0503-next-greater-element-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -45,6 +46,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0041-first-missing-positive](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0219-contains-duplicate-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -77,6 +79,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
