@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0169-majority-element](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0503-next-greater-element-ii](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0503-next-greater-element-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -76,6 +77,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -100,6 +102,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
