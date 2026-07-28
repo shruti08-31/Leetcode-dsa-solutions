@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +101,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
