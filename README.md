@@ -58,6 +58,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3856-trim-trailing-vowels](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3856-trim-trailing-vowels) |
 ## Sliding Window
 |  |
 | ------- |
