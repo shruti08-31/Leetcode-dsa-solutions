@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [2235-add-two-integers](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/2235-add-two-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3945-digit-frequency-score](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
 | ------- |
@@ -51,6 +52,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [1394-find-lucky-integer-in-an-array](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3945-digit-frequency-score](https://github.com/shruti08-31/leetcode-dsa-solutions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
